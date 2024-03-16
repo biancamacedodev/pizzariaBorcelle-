@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <title>Pizzaria Delicious</title>
+    <title>Pizzaria Delicious - Home</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -106,7 +106,7 @@
     </section>
  {{-- end slide --}}
 
-{{-- section espaço --}}
+{{-- section sobre nós --}}
     <section class="ftco-intro">
     	<div class="container-wrap">
     		<div class="wrap d-md-flex">
@@ -160,7 +160,7 @@
   			</div>
     	</div>
     </section>
-{{-- end espaço --}}
+{{-- end sobre nos --}}
 
 {{-- section outros serviços --}}
     <section class="ftco-section ftco-services">
@@ -210,12 +210,12 @@
 
 {{-- end outros serviços --}}
 
-{{-- menu degustaçao --}}
+{{-- menu Pizzas --}}
     <section class="ftco-section">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
-            <h2 class="mb-4">Opções de Pizzas</h2>
+            <h2 class="mb-4">Menu de Pizzas</h2>
             <p>Descubra nossa variedade de sabores irresistíveis de pizza.</p>
           </div>
         </div>
@@ -285,9 +285,9 @@
     			</div>
     		</div>
     	</div>
-{{-- end menu degusta --}}
+{{-- end menu pizza --}}
 
-{{-- precificaçao --}}
+{{-- menu precificaçao --}}
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3 mt-5 pt-5">
           <div class="col-md-7 heading-section text-center ftco-animate">
@@ -490,7 +490,7 @@
     </section>
 {{-- end class --}}
 
-{{-- cardapio --}}
+{{-- menu cardapio --}}
     <section class="ftco-menu">
     	<div class="container-fluid">
     		<div class="row d-md-flex">

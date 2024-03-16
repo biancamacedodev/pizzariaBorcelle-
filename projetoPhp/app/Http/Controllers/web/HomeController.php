@@ -15,11 +15,11 @@ class HomeController extends Controller
         return view('web.menu');
     }
 
-    public function about() {
+    public function sobre() {
         return view('web.about');
     }
 
-    public function contact() {
+    public function contato() {
         return view('web.contact');
     }
 }
